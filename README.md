@@ -1,11 +1,12 @@
 ### 🌌 About Me:
 
-🔭 I’m interested in Software Engineer/Programmer roles
-🌱 I’m currently working on growing my personal portfolio
-📫 How to reach me: nicklistre610@gmail.com
+- 🔭 I’m interested in Software Engineer/Programmer roles
+- 🌱 I’m currently working on growing my personal portfolio
+- 📫 How to reach me: nicklistre610@gmail.com
 
-Link to [Ergonomic Game Controller project](https://xl00192gs.wixsite.com/ergon-g-controller)
+🕹️ Link to [Ergonomic Game Controller project](https://xl00192gs.wixsite.com/ergon-g-controller)
 
+## 
 <!--
 **NickLIstre/NickLIstre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
