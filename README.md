@@ -1,10 +1,11 @@
 ### 🌌 About Me:
 
-- 🔭 I’m interested in Software Engineer/Programmer roles
+- 🔭 I’m interested in Software Engineer/Programmer roles and game development
 - 🌱 I’m currently working on growing my personal portfolio
 - 📫 How to reach me: nicklistre610@gmail.com
 
-🕹️ [Ergonomic Game Controller Website](https://xl00192gs.wixsite.com/ergon-g-controller)
+**🕹️ I worked as lead programmer on
+  [Ergonomic Game Controller](https://xl00192gs.wixsite.com/ergon-g-controller)
 
 ## 
 <!--
