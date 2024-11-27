@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested in Software Engineer/Programmer roles and game development
 - 🌱 I’m currently working on growing my personal portfolio
-- 📫 How to reach me: nicklistre610@gmail.com
+- 📫 How to reach me: nistre.dev@gmail.com
 
 🕹️ [Ergonomic Game Controller Website](https://xl00192gs.wixsite.com/ergon-g-controller)
 
