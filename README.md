@@ -5,7 +5,7 @@
 - ♻️ I enjoy finding creative ways to incorporate accessibility and sustainability into the projects I build
 - 📫 How to reach me: nistre.dev@gmail.com
 
-🕹️ [Ergonomic Game Controller Website](https://xl00192gs.wixsite.com/ergon-g-controller)
+📖 [Portfolio](https://nickistre.blackbaccaraproductions.com/)
 
 ## 
 <!--
