@@ -3,7 +3,7 @@
 - 🔭 I’m interested in Software Engineer/Programmer roles and game development
 - 🌱 I’m currently working on growing my personal portfolio
 - ♻️ I enjoy finding creative ways to incorporate accessibility and sustainability into the projects I build
-- 📫 How to reach me: nistre.dev@gmail.com
+- 📫 How to reach me: nick@blackbaccaraproductions.com
 
 📖 [Portfolio](https://nickistre.blackbaccaraproductions.com/)
 
