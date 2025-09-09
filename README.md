@@ -1,4 +1,4 @@
-### 🌌 About Me:
+### About Me:
 
 - 🔭 I’m interested in Software Engineer/Programmer roles and game development
 - 🌱 I’m currently working on growing my personal portfolio
